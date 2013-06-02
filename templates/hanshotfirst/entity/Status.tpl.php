@@ -1,0 +1,1 @@
+<p class="status"><?=$this->parseURLs($vars['object']->body, $rel)?></p>
