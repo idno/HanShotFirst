@@ -1,4 +1,8 @@
+<!--
 
+	Crawl CSS lovingly taken from: http://www.sitepoint.com/css3-starwars-scrolling-text/
+
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
